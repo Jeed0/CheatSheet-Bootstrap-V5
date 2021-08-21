@@ -1,15 +1,15 @@
-# Les bases de Bootstrap
+# Bootstrap Partie 1
 
-## SaLut Wonderland!!
+## SaLut Wonderland"!!"  
 
 -"T'as fait quoi de ton premier Week Ebnd en saison 4?"  
--"Bah j'ai appris le MarkDown en faisant du Bootstrap sur du PHP"...    
+-"Bah j'ai appris le MarkDown en faisant du Bootstrap sur du PHP"...  
 
 Bref j'ai mis en forme ce petit fichier sur .md pour que tu puisses t'en servir... N'hésites pas à en abuser!!  
 
 Ceci dit il n'est pas encore terminé!! la suite arrive bientot..  
 
-## Notions basiques   
+## Notions basiques
 
 ### Ajouter des couleurs
 
