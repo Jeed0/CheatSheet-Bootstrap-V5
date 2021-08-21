@@ -1,4 +1,6 @@
-# Les composants CSS
+# Bootstrap Partie 2
+
+## Les composants CSS
 
 ### Les boutons
 
