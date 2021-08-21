@@ -3,6 +3,8 @@
 SaLut Wonderland!!
 Je me suis pris la tête à mettre en forme ce petit fichier sur .md pour que tu puisses t'en servir... N'hésites pas à en abuser!!
 
+Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
+
 **Ajouter des couleurs
 
 ```html
