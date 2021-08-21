@@ -1,6 +1,6 @@
 # Bootstrap Partie 4 : Les composants d'animation
 
-## Les barres de navigation responsives
+### Les barres de navigation responsives
 
 ```html
 <html>
@@ -29,7 +29,7 @@
 </html>
 ```
 
-## Les carrousels
+### Les carrousels
 
 ```html
 <html>
@@ -81,7 +81,7 @@
 </html>
 ```
 
-## Les listes déroulantes
+### Les listes déroulantes
 
 ```html
 <html>
@@ -115,7 +115,7 @@
 </html>
 ```
 
-## Les fenêtres modales
+### Les fenêtres modales
 
 ```html
 <html>
@@ -153,7 +153,7 @@
 </html>
 ```
 
-## Les infobulles
+### Les infobulles
 
 ```html
 <html>
@@ -170,7 +170,7 @@
 </html>
 ```
 
-## Les popovers
+### Les popovers
 
 ```html
 <html>
@@ -187,7 +187,7 @@
 </html>
 ```
 
-## Les "Scrollspy"
+### Les "Scrollspy"
 
 Pour espionner le scroll des utilisateurs, nous avons besoin d'ajouter l'attribut data-bs-spy et data-bs-target sur la balise body.
 
@@ -201,7 +201,7 @@ Pour espionner le scroll des utilisateurs, nous avons besoin d'ajouter l'attribu
 
 La cible doit toujours être une balise nav qui utilise la classe navbar. Il ne reste qu'à ajouter vos ancres et Bootstrap gérera tout.
 
-## Les spinners
+### Les spinners
 
 ```html
 <html>
