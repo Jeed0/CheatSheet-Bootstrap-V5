@@ -8,3 +8,5 @@
 Bref j'ai mis en forme ce petit fichier suites aux cours de "Believemy Bootstrap Formation Ultime" sur Udemy sur .md pour que tu puisses t'en servir...  
 
 Ctrl/c --> Ctrl/v : N'hésites pas à en abuser, je l'ai fait aussi pour toi!!  
+
+Jeed0
