@@ -5,7 +5,7 @@ Je me suis pris la tête à mettre en forme ce petit fichier sur .md pour que tu
 
 Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
 
-**Ajouter des couleurs
+### Ajouter des couleurs
 
 ```html
 <html>
@@ -23,7 +23,7 @@ Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
 </html>
 ```
 
-**Ajouter une couleur de background
+### Ajouter une couleur de background
 
 ```html
 <html>
@@ -40,7 +40,7 @@ Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
 </html>
 ```
 
-**Gérer les dimensions
+### Gérer les dimensions
 
 ```html
 <html>
@@ -63,11 +63,11 @@ Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
 
 ## Notions intermédiaires
 
-**Les "breakpoints"
+### Les "breakpoints"
 
 ![ bkpt](./img/bkpt.png "bkpt")
 
-**Aligner du texte
+### Aligner du texte
 
 ```html
 <html>
@@ -79,7 +79,7 @@ Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
 </html>
 ```
 
-**Transformer du texte
+### Transformer du texte
 
 ```html
 <html>
@@ -89,7 +89,7 @@ Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
 </html>
 ```
 
-**Gérer le text-decoration
+### Gérer le text-decoration
 
 ```html
 <html>
@@ -99,7 +99,7 @@ Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
 </html>
 ```
 
-**Mettre en forme
+### Mettre en forme
 
 ```html
 <html>
@@ -113,7 +113,7 @@ Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
 </html>
 ```
 
-**Gérer les polices
+### Gérer les polices
 
 ```html
 <html>
@@ -126,7 +126,7 @@ Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
 </html>
 ```
 
-**Gérer les ombres
+### Gérer les ombres
 
 ```html
 <html>
@@ -139,7 +139,7 @@ Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
 
 ## Les tableaux
 
-**Initialiser un tableau
+### Initialiser un tableau
 
 ```html
 <html>
@@ -149,7 +149,7 @@ Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
 </html>
 ```
 
-**Mettre en couleur
+### Mettre en couleur
 
 ```html
 <html>
@@ -187,7 +187,7 @@ Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
 </html>
 ```
 
-**Dissocier les lignes
+### Dissocier les lignes
 
 ```html
 <html>
@@ -204,7 +204,7 @@ Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
 </html>
 ```
 
-**Gérer les bordures
+### Gérer les bordures
 
 ```html
 <html>
@@ -229,11 +229,11 @@ Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
 </html>
 ```
 
-**Aligner verticalement les items
+### Aligner verticalement les items
 
 ->Il suffit d'utiliser la classe align-middle ou align-bottom sur la ligne ou sur la cellule du tableau.
 
-**Faire un tableau totalement responsive
+### Faire un tableau totalement responsive
 
 ```html
 <html>
@@ -248,7 +248,7 @@ Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
 </html>
 ```
 
-**Ajouter une description
+### Ajouter une description
 
 ```html
 <html>
