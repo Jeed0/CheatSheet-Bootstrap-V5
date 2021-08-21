@@ -1,6 +1,6 @@
 # Cheat-Sheet de Bootstrap V5
 
-## SaLut Wonderland!!!  
+## Paix et Sérénité Wonderland!!!  
 
 -"T'as fait quoi de ton premier Week End en saison 4?"  
 -"Bah je me suis familiarisé avec Git en allant sur Github en apprenant le MarkDown en faisant du Bootstrap sur du PHP"...   ^^
