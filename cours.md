@@ -1,5 +1,8 @@
 # Les bases de Bootstrap
 
+SaLut Wonderland!!
+Je me suis pris la tête à mettre en forme ce petit fichier sur .md pour que tu puisses t'en servir... N'hésites pas à en abuser!!
+
 **Ajouter des couleurs
 
 ```html
@@ -132,3 +135,130 @@
 </html>
 ```
 
+## Les tableaux
+
+**Initialiser un tableau
+
+```html
+<html>
+<table class="table">
+    ...
+</table>
+</html>
+```
+
+**Mettre en couleur
+
+```html
+<html>
+<!-- Sur le tableau -->
+<table class="table-primary">...</table>
+<table class="table-secondary">...</table>
+<table class="table-success">...</table>
+<table class="table-danger">...</table>
+<table class="table-warning">...</table>
+<table class="table-info">...</table>
+<table class="table-light">...</table>
+<table class="table-dark">...</table>
+ 
+<!-- Sur des lignes -->
+<tr class="table-primary">...</tr>
+<tr class="table-secondary">...</tr>
+<tr class="table-success">...</tr>
+<tr class="table-danger">...</tr>
+<tr class="table-warning">...</tr>
+<tr class="table-info">...</tr>
+<tr class="table-light">...</tr>
+<tr class="table-dark">...</tr>
+ 
+<!-- Sur des cellules (`td` ou `th`) -->
+<tr>
+  <td class="table-primary">...</td>
+  <td class="table-secondary">...</td>
+  <td class="table-success">...</td>
+  <td class="table-danger">...</td>
+  <td class="table-warning">...</td>
+  <td class="table-info">...</td>
+  <td class="table-light">...</td>
+  <td class="table-dark">...</td>
+</tr>
+</html>
+```
+
+**Dissocier les lignes
+
+```html
+<html>
+<table class="table table-striped table-hover">
+    ...
+</table>
+ 
+<!-- Et pour mettre en valeur :  -->
+<tr>
+    <td class="table-active">Anabelle</td>
+    <td>Dupont</td>
+    <td>45 ans</td>
+</tr>
+</html>
+```
+
+**Gérer les bordures
+
+```html
+<html>
+<table class="table table-bordered border-primary">
+ 
+</table>
+ 
+<!-- Pour retirer les bordures -->
+<table class="table table-borderless">
+ 
+</div>
+</html>
+```
+
+**Faire de petits tableaux
+
+```html
+<html>
+<table class="table table-sm">
+    ...
+</table>
+</html>
+```
+
+**Aligner verticalement les items
+
+->Il suffit d'utiliser la classe align-middle ou align-bottom sur la ligne ou sur la cellule du tableau.
+
+**Faire un tableau totalement responsive
+
+```html
+<html>
+<table class="table table-responsive">
+ 
+</table>
+ 
+<!-- En utilisant les breakpoints -->
+<table class="table table-responsive-lg">
+ 
+</table>
+</html>
+```
+
+**Ajouter une description
+
+```html
+<html>
+<table class="table">
+    <caption>Description</caption>
+    ...
+</table>
+ 
+<!-- Et si on veut mettre la description au-dessus du tableau -->
+<table class="table caption-top">
+    <caption>Description</caption>
+    ...
+</table>
+</html>
+```
