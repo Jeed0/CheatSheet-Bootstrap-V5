@@ -2,7 +2,10 @@
 
 ## SaLut Wonderland!!
 
-Je me suis pris la tête à mettre en forme ce petit fichier sur .md pour que tu puisses t'en servir... N'hésites pas à en abuser!!
+-T'as fait quoi de ton premier Week Ebnd en saison 4? 
+-Bah j'ai appris le MarkDown en faisant du Bootstrap sur du PHP...
+
+Bref j'ai mis en forme ce petit fichier sur .md pour que tu puisses t'en servir... N'hésites pas à en abuser!!
 
 Ceci dit il n'est pas encore terminé!! la suite arrive bientot..
 
