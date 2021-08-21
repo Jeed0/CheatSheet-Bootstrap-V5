@@ -9,6 +9,8 @@ Bref j'ai mis en forme ce petit fichier sur .md pour que tu puisses t'en servir.
 
 Ceci dit il n'est pas encore terminé!! la suite arrive bientot..  
 
+## Notions basiques   
+
 ### Ajouter des couleurs
 
 ```html
