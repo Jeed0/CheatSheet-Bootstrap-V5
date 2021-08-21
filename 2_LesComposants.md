@@ -1,4 +1,4 @@
-# Bootstrap Partie 2
+# Bootstrap Partie 2 : LES COMPOSANTS
 
 ## Les composants CSS
 
